@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projeto1</string>
+    <string name="name">Nome</string>
+    <string name="btn_send">Enviar</string>
+    <string name="message">Seja bem vindo(a),</string>
+</resources>
